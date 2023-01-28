@@ -1,0 +1,10 @@
+F:\Programs\C# programs\Tiny Language\Tiny Language\bin\Debug\Tiny Language.exe.config
+F:\Programs\C# programs\Tiny Language\Tiny Language\bin\Debug\Tiny Language.exe
+F:\Programs\C# programs\Tiny Language\Tiny Language\bin\Debug\Tiny Language.pdb
+F:\Programs\C# programs\Tiny Language\Tiny Language\obj\Debug\Tiny Language.csproj.AssemblyReference.cache
+F:\Programs\C# programs\Tiny Language\Tiny Language\obj\Debug\Tiny_Language.Form1.resources
+F:\Programs\C# programs\Tiny Language\Tiny Language\obj\Debug\Tiny_Language.Properties.Resources.resources
+F:\Programs\C# programs\Tiny Language\Tiny Language\obj\Debug\Tiny Language.csproj.GenerateResource.cache
+F:\Programs\C# programs\Tiny Language\Tiny Language\obj\Debug\Tiny Language.csproj.CoreCompileInputs.cache
+F:\Programs\C# programs\Tiny Language\Tiny Language\obj\Debug\Tiny Language.exe
+F:\Programs\C# programs\Tiny Language\Tiny Language\obj\Debug\Tiny Language.pdb
