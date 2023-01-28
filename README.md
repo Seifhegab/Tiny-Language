@@ -10,7 +10,7 @@ Milestone 2
 In Milestone 2 we built a Parser phase which we make the grammar of the language by making parsing tree and every branch of the tree contain the block of the code
 
 Contributions
-1- (Seif Wael)[https://github.com/Seifhegab]
-2- (Seif Omran)[https://github.com/seifomran132]
-3- (Seif Samer)[https://github.com/Lord-Biko-1]
-4- (Seif Ezz)[https://github.com/seifezz]
+1- (Seif Wael)[https://github.com/Seifhegab] endl
+2- (Seif Omran)[https://github.com/seifomran132]endl
+3- (Seif Samer)[https://github.com/Lord-Biko-1]endl
+4- (Seif Ezz)[https://github.com/seifezz]endl
